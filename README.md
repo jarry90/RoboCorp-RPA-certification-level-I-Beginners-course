@@ -1,13 +1,6 @@
-# Template: Standard Robot Framework
+# RoboCorp - RPA certification level I: Beginner's course
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+My workthrough of the RoboCorp RPA certification level I: Beginner's course.
 
-This template robot:
+Built in VS Code using the RoboCorp Framework. 
 
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
-
-## Learning materials
-
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
